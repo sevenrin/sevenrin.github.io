@@ -1,0 +1,4 @@
+baseURL: "http://sevenrin.github.io/"
+title: severin
+paginate: 5
+theme: PaperMod
